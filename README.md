@@ -1,3 +1,5 @@
+You can find detail of project at Jupyter Notebook file
+
 First of all, you need to import the libraries necessary for the Web App to work.
 
 pip install streamlit
